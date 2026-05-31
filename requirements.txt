@@ -1,0 +1,9 @@
+# Python Basics Course Requirements
+# No external dependencies required for this course
+# 
+# Minimum Python Version: 3.6+
+# 
+# Install requirements (if any packages are added in future chapters):
+# pip install -r requirements.txt
+#
+# For now, only standard library modules are used
